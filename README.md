@@ -20,44 +20,6 @@
 
 ---
 
-## 🚀 Projects
-
-### 🔹 CareBot+
-> AI-powered Medical Assistant  
-- Emergency detection 🚑  
-- Offline AI processing  
-- Hospital & pharmacy locator  
-
----
-
-### 🔹 Gen-AI LMS
-> AI-based Learning Platform  
-- Smart content generation  
-- Quizzes & flashcards  
-- Seamless UX  
-
----
-
-### 🔹 SAVEZO
-> Deepfake Detection System  
-- CNN + LSTM + YOLOv8  
-- Real-time moderation  
-
----
-
-### 🔹 AdhariFy
-> Face Liveness Detection  
-- Aadhaar verification  
-- Spoof detection  
-
----
-
-### 🔹 MindHaven
-> Mental Health AI Platform  
-- Risk detection  
-- Chatbot support  
-
----
 
 ## 💼 Experience
 
