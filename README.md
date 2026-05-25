@@ -35,7 +35,7 @@
 
 ## 🎓 Education
 
-🎓 B.Tech CSE (AI)  
+🎓 B.Tech CSE (AIML)  
 📍 Brainware University  
 📊 CGPA: 8.93  
 
