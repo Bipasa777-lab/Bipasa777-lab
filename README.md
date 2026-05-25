@@ -24,7 +24,7 @@
 ## 💼 Experience
 
 **SDE Intern — Techno Billion AI**  
-📍 Kolkata | Mar 2025 – Jun 2025  
+📍 Kolkata (On Side)| Mar 2025 – Jun 2025  
 
 - Built full-stack apps using Next.js & TypeScript  
 - Developed APIs using FastAPI & Flask  
