@@ -16,7 +16,7 @@
 - 💻 SDE Fresher passionate about building scalable applications  
 - 🤖 Focused on AI-powered systems & Generative AI  
 - 🚀 Experience in Full-Stack + Cloud + DevOps  
-- 📈 Strong interest in System Design & Backend Engineering  
+- 📈 Strong interest in System Design & Frontend and Backend Engineering  
 
 ---
 
